@@ -1,0 +1,5 @@
+bind_addr = ":port"
+log_level = "debug"
+
+[store]
+database_url = "postgresql://user:password@host:port/dbname?sslmode=disable"
