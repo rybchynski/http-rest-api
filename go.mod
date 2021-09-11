@@ -8,6 +8,7 @@ require (
 	github.com/edi9999/path-extractor v0.2.0 // indirect
 	github.com/go-ozzo/ozzo-validation v3.6.0+incompatible // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
+	github.com/gorilla/securecookie v1.1.1 // indirect
 	github.com/gorilla/sessions v1.2.1 // indirect
 	github.com/lib/pq v1.10.2 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
